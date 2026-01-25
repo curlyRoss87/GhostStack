@@ -11,4 +11,4 @@
 <script defer src="/assets/js/main.js"></script>
 
 <!-- Basic SEO placeholders -->
-<meta name="description" content="GhostStack™ — secure, modern data movement and transformation.">
+<meta name="description" content="GhostStack™ — Next Generation Data Centre and Facilities Management Optimisation Software.">

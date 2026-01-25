@@ -35,7 +35,7 @@ $pageTitle = "GhostStack™ — Home";
       <div class="section-inner">
         <h2 class="section-title reveal">What is GhostStack<sup>™</sup></h2>
         <p class="section-text reveal">
-          Placeholder content — describe the platform at a high level.
+          Placeholder content - Need to put more in here.
         </p>
 
         <div class="cards">
@@ -81,7 +81,7 @@ $pageTitle = "GhostStack™ — Home";
             <div class="panel">
               <h3>Design language</h3>
               <p>
-                Placeholder — refined, quiet confidence, “Audi-like” motion and spacing.
+                Placeholder — refined, quiet confidence.
               </p>
             </div>
           </div>

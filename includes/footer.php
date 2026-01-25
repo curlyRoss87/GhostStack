@@ -3,8 +3,7 @@
     <div class="footer-col">
       <div class="footer-brand">GhostStack<sup>™</sup></div>
       <p class="muted">
-        <!-- Replace with your real strapline later -->
-        Secure data movement, transformation, and orchestration.
+        Next Generation Data Centre and Facilities Management Optimisation Software.
       </p>
     </div>
 
@@ -12,8 +11,7 @@
       <div class="footer-title">Business</div>
       <p class="muted">
         GhostStack LTD<br>
-        <!-- Replace with real address -->
-        1 Example Street, London, United Kingdom<br>
+        150 Fleet Street, London, United Kingdom<br>
         Company No. 16438346
       </p>
     </div>
