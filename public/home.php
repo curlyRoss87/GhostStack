@@ -14,11 +14,11 @@ $pageTitle = "GhostStack™ — Home";
       <div class="hero-inner">
         <div class="hero-kicker reveal">GHOSTSTACK<sup>™</sup></div>
         <h1 class="hero-title reveal">
-          Modern, secure data movement — engineered for high-trust environments.
+          Next Generation Data Centre and Facilities Management Optimisation Software
         </h1>
         <p class="hero-lede reveal">
           <!-- Placeholder copy (you’ll replace) -->
-          A clean platform layer for orchestration, transformation, and controlled exchange.
+          ...a revolutionary platform designed to streamline and enhance the management of data centres and facilities through advanced AI automation and prediction.
         </p>
 
         <div class="hero-actions reveal">
@@ -40,16 +40,16 @@ $pageTitle = "GhostStack™ — Home";
 
         <div class="cards">
           <article class="card reveal">
-            <h3>Orchestrate</h3>
-            <p>Placeholder: pipelines, scheduling, and policy-driven workflows.</p>
+            <h3>Learn</h3>
+            <p>Placeholder: curent systems, historical data, and customer driven workflows.</p>
           </article>
           <article class="card reveal">
-            <h3>Transform</h3>
-            <p>Placeholder: structured and unstructured conversion with validation.</p>
+            <h3>Analyse</h3>
+            <p>Placeholder: Industry re-defining AI tools analyse your data in real time.</p>
           </article>
           <article class="card reveal">
-            <h3>Assure</h3>
-            <p>Placeholder: auditability, integrity, and controlled exchange.</p>
+            <h3>Optimise</h3>
+            <p>Placeholder: Watch your bills decrease while your uptime increases.</p>
           </article>
         </div>
       </div>
