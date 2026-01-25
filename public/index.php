@@ -9,9 +9,7 @@ $pageTitle = "GhostStack™";
 <body class="splash">
   <main class="splash-wrap">
     <a class="splash-logo" href="/home.php" aria-label="Enter GhostStack™">
-      <!-- Replace with your real SVG file -->
       <img src="/assets/img/ghoststack_logo.svg" alt="GhostStack™ logo">
-      <div class="splash-hint">Enter</div>
     </a>
 
     <div class="splash-glow" aria-hidden="true"></div>
