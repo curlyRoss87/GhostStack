@@ -4,7 +4,7 @@ function navActive($file, $current) { return $file === $current ? 'is-active' : 
 ?>
 <header class="site-header">
   <div class="header-inner">
-    <a class="brand" href="/index.php" aria-label="Go to GhostStack™ home">
+    <a class="brand" href="/home.php" aria-label="Go to GhostStack™ home">
       <span class="brand-mark">G</span>
       <span class="brand-word">GhostStack<sup>™</sup></span>
     </a>
