@@ -11,7 +11,7 @@
       <div class="hero-kicker reveal">How it works</div>
       <h1 class="hero-title reveal">Example workflows</h1>
       <p class="hero-lede reveal">
-        Practical flows that connect operations, facilities, finance and ESG — with traceability by design.
+        Practical flows that connect operations, facilities, finance and ESG with traceability by design.
       </p>
     </div>
     <div class="hero-bg" aria-hidden="true"></div>
