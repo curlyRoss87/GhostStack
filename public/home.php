@@ -14,7 +14,7 @@ $pageTitle = "GhostStack™ — Home";
       <div class="hero-inner">
         <div class="hero-kicker reveal">GHOSTSTACK<sup>™</sup></div>
         <h1 class="hero-title reveal">
-          Next Generation Data Centre and Facilities Management Optimisation Software
+          Know More. 
         </h1>
         <p class="hero-lede reveal">
           <!-- Placeholder copy (you’ll replace) -->
