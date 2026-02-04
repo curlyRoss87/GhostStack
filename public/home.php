@@ -47,16 +47,17 @@ GhostStack™ delivers continuous visibility, intelligent automation, and full l
 
         <div class="cards">
           <article class="card reveal">
-            <h3>Learn</h3>
-            <p>Placeholder: curent systems, historical data, and customer driven workflows.</p>
+            <h3>Insight you can act on</h3>
+            <p> single real-time view across assets, estates, buildings, energy and performance.
+No blind spots. No spreadsheet archaeology.</p>
           </article>
           <article class="card reveal">
-            <h3>Analyse</h3>
-            <p>Placeholder: Industry re-defining AI tools analyse your data in real time.</p>
+            <h3>Operational Efficieny At Scale</h3>
+            <p>Automated workflows across maintenance, scheduling, triage and reporting. Less manual effort. Faster execution. Better consistency.</p>
           </article>
           <article class="card reveal">
-            <h3>Optimise</h3>
-            <p>Placeholder: Watch your bills decrease while your uptime increases.</p>
+            <h3>Financial and Compliance Intelligence</h3>
+            <p>Optimise cost-to-serve, evidence performance, and stay governance-ready. Decisions backed by data, not judgement calls.</p>
           </article>
         </div>
       </div>
@@ -96,7 +97,7 @@ GhostStack™ delivers continuous visibility, intelligent automation, and full l
       </div>
     </section>
 
-    <section class="section">
+<!--    <section class="section">
       <div class="section-inner">
         <h2 class="section-title reveal">The Three Pillars of GhostStack<sup>™</sup></h2>
         <p class="section-text reveal">
@@ -124,12 +125,12 @@ No blind spots. No spreadsheet archaeology.</p>
             <div>
               <h3>Financial and Compliance Intelligence</h3>
               <p>Optimise cost-to-serve, evidence performance, and stay governance-ready. Decisions backed by data, not judgement calls.
-</p>
+</p> 
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
   </main>
 
   <?php include __DIR__ . "/../includes/footer.php"; ?>
