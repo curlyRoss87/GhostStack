@@ -1,5 +1,5 @@
 <?php
-$pageTitle = "GhostStack™ — Home";
+$pageTitle = "GhostStack™ | Home";
 ?>
 <!doctype html>
 <html lang="en">

@@ -1,4 +1,4 @@
-<?php $pageTitle = "GhostStack™ — Operational efficiency at scale"; ?>
+<?php $pageTitle = "GhostStack™ | Operational efficiency at scale"; ?>
 <!doctype html>
 <html lang="en">
 <head><?php include __DIR__ . "/../includes/head.php"; ?></head>

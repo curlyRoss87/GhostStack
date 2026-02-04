@@ -1,4 +1,4 @@
-<?php $pageTitle = "GhostStack™ — Example Workflows"; ?>
+<?php $pageTitle = "GhostStack™ | Example Workflows"; ?>
 <!doctype html>
 <html lang="en">
 <head><?php include __DIR__ . "/../includes/head.php"; ?></head>
