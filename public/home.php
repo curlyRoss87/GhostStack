@@ -14,11 +14,15 @@ $pageTitle = "GhostStack™ — Home";
       <div class="hero-inner">
         <div class="hero-kicker reveal">GHOSTSTACK<sup>™</sup></div>
         <h1 class="hero-title reveal">
-          Know More. 
+          Know More. Decide Faster. Operate Smarter
         </h1>
         <p class="hero-lede reveal">
           <!-- Placeholder copy (you’ll replace) -->
-          ...a revolutionary platform designed to streamline and enhance the management of data centres and facilities through advanced AI automation and prediction.
+          GhostStack  - Total Estate Intelligence
+Know more. Decide faster. Operate smarter
+InfraSight is the digital command layer for asset-intensive operations from data centres to facilities portfolios.It brings together asset management, financial insight, ESG performance, Estates Management, AI and automated workflows into one secure, hybrid platform.
+InfraSight delivers continuous visibility, intelligent automation, and full lifecycle control across every asset, site, and system, transforming fragmented estates into predictive, compliant, self-optimising environments that deliver measurable ROI in under six months.
+
         </p>
 
         <div class="hero-actions reveal">
