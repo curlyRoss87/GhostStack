@@ -98,31 +98,33 @@ InfraSight delivers continuous visibility, intelligent automation, and full life
 
     <section class="section">
       <div class="section-inner">
-        <h2 class="section-title reveal">Who is GhostStack<sup>™</sup></h2>
+        <h2 class="section-title reveal">The Three Pillars of GhostStack<sup>™</sup></h2>
         <p class="section-text reveal">
-          Placeholder content — team, partners, mission, operating principles.
+          Our Core Operating Principles.
         </p>
 
         <div class="timeline">
           <div class="timeline-item reveal">
             <div class="dot"></div>
             <div>
-              <h3>Principle 1</h3>
-              <p>Placeholder — security by design, clarity, accountability.</p>
+              <h3>Insight you can act on</h3>
+              <p>A single real-time view across assets, estates, buildings, energy and performance.
+No blind spots. No spreadsheet archaeology.</p>
             </div>
           </div>
           <div class="timeline-item reveal">
             <div class="dot"></div>
             <div>
-              <h3>Principle 2</h3>
-              <p>Placeholder — interoperable, composable architecture.</p>
+              <h3>Operational Efficieny At Scale</h3>
+              <p>Automated workflows across maintenance, scheduling, triage and reporting. Less manual effort. Faster execution. Better consistency</p>
             </div>
           </div>
           <div class="timeline-item reveal">
             <div class="dot"></div>
             <div>
-              <h3>Principle 3</h3>
-              <p>Placeholder — frictionless operator experience.</p>
+              <h3>Financial and Compliance Intelligence</h3>
+              <p>Optimise cost-to-serve, evidence performance, and stay governance-ready. Decisions backed by data, not judgement calls.
+</p>
             </div>
           </div>
         </div>
