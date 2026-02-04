@@ -45,22 +45,40 @@ It brings together asset management, financial insight, ESG performance, Estates
          Our Core Operating Principles. 
         </p>
 
-        <div class="cards">
-          <article class="card reveal">
-            <h3>Insight you can act on</h3>
-            <p> single real-time view across assets, estates, buildings, energy and performance.
-No blind spots. No spreadsheet archaeology.</p>
-          </article>
-          <article class="card reveal">
-            <h3>Operational Efficieny At Scale</h3>
-            <p>Automated workflows across maintenance, scheduling, triage and reporting. Less manual effort. Faster execution. Better consistency.</p>
-          </article>
-          <article class="card reveal">
-            <h3>Financial and Compliance Intelligence</h3>
-            <p>Optimise cost-to-serve, evidence performance, and stay governance-ready. Decisions backed by data, not judgement calls.</p>
-          </article>
-        </div>
-      </div>
+<div class="cards">
+
+  <a href="/insight.php" class="card-link reveal">
+    <article class="card">
+      <h3>Insight you can act on</h3>
+      <p>
+        A single real-time view across assets, estates, buildings, energy and performance.
+        No blind spots. No spreadsheet archaeology.
+      </p>
+    </article>
+  </a>
+
+  <a href="/efficiency.php" class="card-link reveal">
+    <article class="card">
+      <h3>Operational Efficiency at Scale</h3>
+      <p>
+        Automated workflows across maintenance, scheduling, triage and reporting.
+        Less manual effort. Faster execution. Better consistency.
+      </p>
+    </article>
+  </a>
+
+  <a href="/finance-compliance.php" class="card-link reveal">
+    <article class="card">
+      <h3>Financial and Compliance Intelligence</h3>
+      <p>
+        Optimise cost-to-serve, evidence performance, and stay governance-ready.
+        Decisions backed by data, not judgement calls.
+      </p>
+    </article>
+  </a>
+
+</div>
+
     </section>
 
     <section class="section section-alt">

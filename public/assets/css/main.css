@@ -220,6 +220,27 @@ sup{ font-size:.6em; vertical-align: super; }
 .card h3{ margin:0 0 8px; font-size: 16px; }
 .card p{ margin:0; color: var(--muted); line-height:1.6; }
 
+/* Card links (full-card clickable, premium feel) */
+.card-link{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.card-link:focus-visible{
+  outline: none;
+}
+
+.card-link:focus-visible .card{
+  border-color: rgba(255,255,255,.35);
+}
+
+/* Subtle affordance on hover */
+.card-link:hover .card h3{
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+
 .split{
   margin-top: 26px;
   display:grid;
