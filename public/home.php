@@ -23,8 +23,8 @@ $pageTitle = "GhostStack™ — Home";
           <!-- Placeholder copy (you’ll replace) -->
           GhostStack  - Total Estate Intelligence
 Know more. Decide faster. Operate smarter
-InfraSight is the digital command layer for asset-intensive operations from data centres to facilities portfolios.It brings together asset management, financial insight, ESG performance, Estates Management, AI and automated workflows into one secure, hybrid platform.
-InfraSight delivers continuous visibility, intelligent automation, and full lifecycle control across every asset, site, and system, transforming fragmented estates into predictive, compliant, self-optimising environments that deliver measurable ROI in under six months.
+GhostStack™ is the digital command layer for asset-intensive operations from data centres to facilities portfolios. It brings together asset management, financial insight, ESG performance, Estates Management, AI and automated workflows into one secure, hybrid platform.
+GhostStack™ delivers continuous visibility, intelligent automation, and full lifecycle control across every asset, site, and system, transforming fragmented estates into predictive, compliant, self-optimising environments that deliver measurable ROI in under six months.
 
         </p>
 
