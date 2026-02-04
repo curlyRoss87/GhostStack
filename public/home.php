@@ -21,10 +21,10 @@ $pageTitle = "GhostStack™ — Home";
         </h1>
         <p class="hero-lede reveal">
           <!-- Placeholder copy (you’ll replace) -->
-          GhostStack  - Total Estate Intelligence
-Know more. Decide faster. Operate smarter
-GhostStack™ is the digital command layer for asset-intensive operations from data centres to facilities portfolios. It brings together asset management, financial insight, ESG performance, Estates Management, AI and automated workflows into one secure, hybrid platform.
-GhostStack™ delivers continuous visibility, intelligent automation, and full lifecycle control across every asset, site, and system, transforming fragmented estates into predictive, compliant, self-optimising environments that deliver measurable ROI in under six months.
+          <p> GhostStack  - Total Estate Intelligence </p>
+          <p> Know more. Decide faster. Operate smarter </p>
+<p> GhostStack™ is the digital command layer for asset-intensive operations from data centres to facilities portfolios. </p>
+<p>It brings together asset management, financial insight, ESG performance, Estates Management, AI and automated workflows into one secure, hybrid platform.</p>
 
         </p>
 
@@ -40,9 +40,9 @@ GhostStack™ delivers continuous visibility, intelligent automation, and full l
 
     <section class="section">
       <div class="section-inner">
-        <h2 class="section-title reveal">What is GhostStack<sup>™</sup></h2>
+        <h2 class="section-title reveal">The Three Pillars of GhostStack™<sup>™</sup></h2>
         <p class="section-text reveal">
-          Placeholder content - Need to put more in here.
+         Our Core Operating Principles. 
         </p>
 
         <div class="cards">
