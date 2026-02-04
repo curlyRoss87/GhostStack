@@ -11,6 +11,9 @@ $pageTitle = "GhostStack™ — Home";
 
   <main class="page">
     <section class="hero">
+      <video class="hero-video" autoplay muted loop playsinline preload="metadata" aria-hidden="true">
+  <source src="/assets/video/ghoststack-abstract.mp4" type="video/mp4">
+</video>
       <div class="hero-inner">
         <div class="hero-kicker reveal">GHOSTSTACK<sup>™</sup></div>
         <h1 class="hero-title reveal">
