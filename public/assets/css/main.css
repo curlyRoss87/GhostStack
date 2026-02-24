@@ -52,12 +52,20 @@ sup{ font-size:.6em; vertical-align: super; }
 }
 .brand{ display:flex; align-items:center; gap:12px; }
 .brand-mark{
-  width:34px; height:34px;
-  display:grid; place-items:center;
+  width:34px;
+  height:34px;
+  display:grid;
+  place-items:center;
   border: 1px solid var(--border);
   border-radius: 12px;
   background: rgba(255,255,255,.04);
-  font-weight: 600;
+}
+
+.brand-mark img{
+  width: 18px;          /* tweak to taste */
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,.35));
 }
 .brand-word{ letter-spacing:.02em; font-weight:600; }
 
@@ -107,6 +115,34 @@ sup{ font-size:.6em; vertical-align: super; }
 .hero-inner{
   max-width: var(--max);
   margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+.hero-video{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: .28;                 /* keep it subtle */
+  filter: blur(.2px) saturate(1.05) contrast(1.05);
+  transform: scale(1.02);
+  z-index: 0;
+  pointer-events: none;
+}
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce){
+  .hero-video{ display:none; }
+}
+.hero::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    radial-gradient(900px 520px at 20% 25%, rgba(255,255,255,.10), transparent 60%),
+    linear-gradient(180deg, rgba(11,12,15,.35), rgba(11,12,15,.92));
+  z-index: 1;
+  pointer-events:none;
 }
 .hero-kicker{
   letter-spacing: .28em;
@@ -183,6 +219,27 @@ sup{ font-size:.6em; vertical-align: super; }
 }
 .card h3{ margin:0 0 8px; font-size: 16px; }
 .card p{ margin:0; color: var(--muted); line-height:1.6; }
+
+/* Card links (full-card clickable, premium feel) */
+.card-link{
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.card-link:focus-visible{
+  outline: none;
+}
+
+.card-link:focus-visible .card{
+  border-color: rgba(255,255,255,.35);
+}
+
+/* Subtle affordance on hover */
+.card-link:hover .card h3{
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
 
 .split{
   margin-top: 26px;
@@ -310,7 +367,7 @@ body.splash{ background: #07080b; }
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='.07'/%3E%3C/svg%3E");
   mix-blend-mode: overlay;
   pointer-events: none;
-
+}
 /* Responsive */
 @media (max-width: 900px){
   .cards{ grid-template-columns: 1fr; }
